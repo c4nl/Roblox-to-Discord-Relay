@@ -1,5 +1,5 @@
 # Roblox ↔ Discord Chat Integration
-![Roblox to discord relay image]([https://issue.wtf/](https://issue.wtf/project_pics/Photos_66j8vbd5so.png))
+![Roblox to discord relay image](https://issue.wtf/project_pics/Photos_66j8vbd5so.png)
 
 This project allows Roblox and a Discord server to exchange chat messages in real-time:
 - Roblox player messages → Discord webhook
